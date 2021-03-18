@@ -9,7 +9,12 @@
     clear: both;
 }
 
-#container{
+#Logo{
+    background-color: lightgreen;
+    height: 80px;
+}
+
+#Container{
     width: 900px;
     margin: auto;
 }
